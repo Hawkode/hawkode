@@ -55,7 +55,6 @@ burpsuite         exchange-online  metasploit       privesccheck  splunk
 dhcp              group-policy     microsoft.graph  python        unifi
 dns               hashcat          nmap             robocopy      windows-server
 endpoint-central  hydra            openvas          snipe-it      wireguard
-```              hashcat           nmap             robocopy      windows-server
 ```
 
 ```diff
