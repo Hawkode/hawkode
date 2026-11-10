@@ -12,7 +12,7 @@ PS C:\> Get-ADUser hawkode -Properties Description, info, MemberOf, AdminCount
 
 DistinguishedName : CN=hawkode,OU=SuperUser 😎,DC=homelab,DC=internal
 Enabled           : True
-Description       : Finds the path to Domain Admin. Then closes it.
+Description       : One does not simply walk into Domain Admin. Usually. 🙃
 info              : Entra ID, AD, Kerberos, privesc, phishing, and the logs that catch them.
 MemberOf          : {Protected Users}
 AdminCount        : 0
@@ -58,5 +58,5 @@ endpoint-central  hydra            openvas          snipe-it      wireguard
 ```
 
 ```diff
-- [-] Meterpreter session 1 closed.  Reason: User exit
+- [-] Meterpreter session 1 closed.  Reason: User exit 👋
 ```
