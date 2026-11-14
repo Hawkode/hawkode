@@ -30,7 +30,8 @@ AdminCount        : 0
 #### ~/crafted
 - `[+]` [entra-iam-automation](https://github.com/Hawkode/entra-iam-automation) - joiner, mover, leaver and access reviews for Entra ID and hybrid AD.
 - `[+]` [MailGuard](https://github.com/Hawkode/MailGuard) - phishing triage CLI: headers, links, attachments and SPF/DKIM/DMARC, scored.
-- `[+]` [PasswordAnalyzer](https://github.com/Hawkode/PasswordAnalyzer) - password entropy, Have I Been Pwned check and a John the Ripper wrapper.
+- `[+]` [Windows-Health-Monitor](https://github.com/Hawkode/Windows-Health-Monitor) - endpoint posture checks (Defender, firewall, patching, BitLocker, log clearing) that report to Splunk. Tested on PowerShell 5.1 and 7.
+- `[+]` [PasswordAnalyzer](https://github.com/Hawkode/PasswordAnalyzer) - password auditor: entropy, Have I Been Pwned k-anonymity check, zxcvbn strength.
 
 #### ~/prod
 - `[+]` [Windows Server 2022 DC migration](https://hawkode.github.io/projects/windows-server-2022-domain-migration/) - new DC with AD DS, DNS and DHCP, 50+ users moved, Entra ID sync aligned.
@@ -41,6 +42,7 @@ AdminCount        : 0
 - `[+]` [IAM Lab in Entra ID](https://hawkode.github.io/projects/entra-iam-lab/) - RBAC, Conditional Access, PIM and access reviews from an empty tenant.
 - `[+]` [Windows Privilege Escalation](https://hawkode.github.io/projects/windows-privilege-escalation/) - low-priv to SYSTEM, and the event IDs that expose it.
 - `[+]` [Splunk privesc detection](https://hawkode.github.io/projects/splunk-privesc-detection/) - Sysmon, SPL and alerts mapped to MITRE ATT&CK.
+- `[+]` [Windows Health Monitor](https://hawkode.github.io/projects/windows-health-monitor/) - part 3: harden the host, and alert when the monitor goes quiet.
 - `[+]` [Metasploitable 2 pentest](https://github.com/Hawkode/Penetration-testing-techniques-Metasploitable-2-) - breaking a box built to be broken.
 - `[+]` [Hydra](https://hawkode.github.io/guides/hydra-online-password-attacks/) - online password attacks, and how to spot and stop them.
 - `[+]` [John the Ripper](https://hawkode.github.io/guides/john-the-ripper-password-cracking/) - offline cracking, and why the hash is the real defence.
