@@ -34,7 +34,7 @@ AdminCount        : 0
 - `[+]` [PasswordAnalyzer](https://github.com/Hawkode/PasswordAnalyzer) - password auditor: entropy, Have I Been Pwned k-anonymity check, zxcvbn strength.
 
 #### ~/prod
-- `[+]` [Windows Server 2022 DC migration](https://hawkode.github.io/projects/windows-server-2022-domain-migration/) - new DC with AD DS, DNS and DHCP, 50+ users moved, Entra ID sync aligned.
+- `[+]` [Two-site domain consolidation](https://hawkode.github.io/projects/windows-server-2022-domain-migration/) - two office domains merged into one on Windows Server 2022, 60+ users moved, Entra ID identities matched.
 - `[+]` [Snipe-IT asset inventory](https://hawkode.github.io/projects/snipe-it-asset-inventory/) - every device tracked to a site, a desk and a lifecycle stage.
 - `[+]` [Network cabling & port mapping](https://hawkode.github.io/projects/network-cabling-port-mapping/) - patch panel to wall socket: traced, labelled, documented.
 
