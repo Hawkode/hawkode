@@ -39,6 +39,7 @@ AdminCount        : 0
 - `[+]` [Network cabling & port mapping](https://hawkode.github.io/projects/network-cabling-port-mapping/) - patch panel to wall socket: traced, labelled, documented.
 
 #### ~/training_grounds
+- `[+]` [Hybrid hardening lab](https://hawkode.github.io/projects/hybrid-hardening-lab/) - Server 2025 DC hardened to the Microsoft baseline, synced to Entra ID, and JML automation tested through Entra Connect.
 - `[+]` [IAM Lab in Entra ID](https://hawkode.github.io/projects/entra-iam-lab/) - RBAC, Conditional Access, PIM and access reviews from an empty tenant.
 - `[+]` [Windows Privilege Escalation](https://hawkode.github.io/projects/windows-privilege-escalation/) - low-priv to SYSTEM, and the event IDs that expose it.
 - `[+]` [Splunk privesc detection](https://hawkode.github.io/projects/splunk-privesc-detection/) - Sysmon data and SPL detections for privesc techniques, mapped to MITRE ATT&CK.
